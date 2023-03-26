@@ -128,15 +128,15 @@ section {
 
 /* Background Images */
 .section-a {
-  background-image: url("./Images/section-a.webp");
+  background-image: url("./Images/starlink.jpg");
 }
 
 .section-b {
-  background-image: url("./Images/section-b.webp");
+  background-image: url("./Images/ses18\ mission.jpg");
 }
 
 .section-c {
-  background-image: url("./Images/section-c.webp");
+  background-image: url("./Images/section-b.webp");
 }
 
 .section-d {
@@ -145,6 +145,10 @@ section {
 
 .section-e {
   background-image: url("./Images/section-e.webp");
+}
+
+.section-f {
+  background-image: url("./Images/section-f.webp");
 }
 
 .btn {
